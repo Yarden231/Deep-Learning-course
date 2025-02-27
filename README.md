@@ -11,10 +11,10 @@ This repository contains assignments completed for the Introduction to Deep Lear
 **Objective:** Implement an MLP using **NumPy**, covering matrix calculus, backpropagation, and gradient descent.  
 
 ### **Topics Covered**  
-✔ **Matrix Calculus** – Gradients of dot products, norms, and traces.  
-✔ **Backpropagation** – Derivations for **linear layers, activation functions, softmax, and cross-entropy loss**.  
-✔ **NumPy Implementation** – MLP with **ReLU, Softmax, and Mini-Batch SGD**.  
-✔ **Optimization Tradeoff** – Analyzed the impact of **learning rate vs. batch size** on model convergence and performance.  
+- **Matrix Calculus** – Gradients of dot products, norms, and traces.  
+- **Backpropagation** – Derivations for **linear layers, activation functions, softmax, and cross-entropy loss**.  
+- **NumPy Implementation** – MLP with **ReLU, Softmax, and Mini-Batch SGD**.  
+- **Optimization Tradeoff** – Analyzed the impact of **learning rate vs. batch size** on model convergence and performance.  
 
 ### **Files**  
 - `train_mlp_numpy.py`, `modules.py`, `mlp_numpy.py` – Implementation  
@@ -26,10 +26,10 @@ This repository contains assignments completed for the Introduction to Deep Lear
 **Objective:** Explore **CNNs, ResNets, Self-Attention, and Momentum Optimization**.
 
 ### **Topics Covered**  
-✔ **CNNs** – 1D convolutions, receptive fields, weight/bias calculations.  
-✔ **ResNets** – Basic and Bottleneck residual blocks.  
-✔ **Self-Attention** – Query, Key, and Value parameter calculations.  
-✔ **Momentum in SGD** – Weighted gradient accumulation for faster convergence.  
+- **CNNs** – 1D convolutions, receptive fields, weight/bias calculations.  
+- **ResNets** – Basic and Bottleneck residual blocks.  
+- **Self-Attention** – Query, Key, and Value parameter calculations.  
+- **Momentum in SGD** – Weighted gradient accumulation for faster convergence.  
 
 ### **Files**  
 - `Assignment_2.pdf` – Detailed explanation  
