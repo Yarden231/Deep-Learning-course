@@ -15,7 +15,7 @@ This repository contains assignments for the Deep Learning course, covering **ML
 ✔ **Matrix Calculus** – Gradients of dot products, norms, and traces.  
 ✔ **Backpropagation** – Derivations for **linear layers, activation functions, softmax, and cross-entropy loss**.  
 ✔ **NumPy Implementation** – MLP with **ReLU, Softmax, and Mini-Batch SGD**.  
-✔ **Learning Rate Tuning** – Train across **9 learning rates** (from \(10^{-6}\) to \(10^2\)) and analyze results.  
+✔ **Optimization Tradeoff** – Analyzed the impact of **learning rate vs. batch size** on model convergence and performance.  
 
 ### **Files**  
 - `train_mlp_numpy.py`, `modules.py`, `mlp_numpy.py` – Implementation  
