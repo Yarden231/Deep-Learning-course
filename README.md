@@ -1,6 +1,5 @@
 # Deep Learning Course Repository  
-
-This repository contains assignments for the Deep Learning course, covering **MLPs, CNNs, ResNets, Self-Attention, and Optimization techniques**.
+This repository contains assignments completed for the Introduction to Deep Learning course (364-2-1071) at Ben-Gurion University of the Negev, covering **MLPs, CNNs, ResNets, Self-Attention, and Optimization techniques**.
 
 ## **Table of Contents**  
 - [Assignment 1: Multi-Layer Perceptrons (MLPs)](#assignment-1-multi-layer-perceptrons-mlps)  
